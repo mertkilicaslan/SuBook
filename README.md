@@ -7,3 +7,5 @@
 ## Server module
 <img src="https://user-images.githubusercontent.com/94853536/175309535-0c64d9f9-0269-4856-a44c-0875f2fa1efc.png" width="475" /> 
 
+## Creating accounts
+<img src="https://user-images.githubusercontent.com/94853536/177158979-55634aa0-2fdf-4faa-bd38-5150ec12b207.png" width="475" /> 
