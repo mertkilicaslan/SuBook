@@ -1,6 +1,14 @@
 # SuBook
 * Simplified social networking application, SUBook, with client and server modules by using C# socket programming. The Server module manages the storage of posts, posts feed, and friendships between the users. The client module acts as a user who shares posts, adds and removes other users from his/her friendship, and views posts of other users. The project was held within the scope of Computer Networks course from Sabancı University Spring'22.
 
+
+<h2>Team Members</h2>
+<ul>
+  <li><a href="https://github.com/mertkilicaslan">Mert Kılıçaslan</a></li>
+  <li><a href="https://github.com/barisrast">Barış Rastgeldi</a></li>
+  <li><a href="https://github.com/barisrast">Kaan Dilmen</a></li>
+</ul>
+
 ## Client module
 <img src="https://user-images.githubusercontent.com/94853536/175308591-93ac079f-42fb-42f3-b5d4-24b6d9ef7722.png" width="600" />
 
